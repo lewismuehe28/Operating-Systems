@@ -1,0 +1,3 @@
+One operating system function is data security. 
+Data security is used to protect all of the data that is on your computer or device. 
+This protects your data from being stolen, deleted, or used without your permission.
