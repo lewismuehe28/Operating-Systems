@@ -1,3 +1,8 @@
 One operating system function is data security. 
 Data security is used to protect all of the data that is on your computer or device. 
 This protects your data from being stolen, deleted, or used without your permission.
+
+Another operating system function is disk management.
+This is used to manage files that are stored on your computer. 
+This keeps your files in an effective order. 
+Disk management also manages how much disk space you have. 
