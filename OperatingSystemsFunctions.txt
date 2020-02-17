@@ -6,3 +6,7 @@ Another operating system function is disk management.
 This is used to manage files that are stored on your computer. 
 This keeps your files in an effective order. 
 Disk management also manages how much disk space you have. 
+
+A third operating system function is process management.
+Process management helps the system determine what processes are running.
+If more than one process is running, this function determines which one to prioritize. 
